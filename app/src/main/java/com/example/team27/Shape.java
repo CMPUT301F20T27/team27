@@ -4,9 +4,10 @@ public abstract class Shape {
     private int x;
     private int y;
 
-    String color = "blue";
 
-    String secondColor = "black";
+    private String color = "blue";
+
+    private String secondColor = "black";
 
     
 }
